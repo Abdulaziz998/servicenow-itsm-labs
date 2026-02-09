@@ -19,3 +19,14 @@ User reports an IT issue that requires immediate support.
 ## Tools Used
 - ServiceNow PDI
 - IT Service Management (ITSM)
+
+## Incident Lifecycle Screenshots
+
+### Incident Created
+![Incident Created](screenshots/incident-created.png)
+
+### Incident Assigned
+![Incident Assigned](screenshots/incident-assigned.png)
+
+### Incident Resolved
+![Incident Resolved](screenshots/incident-resolved.png)
